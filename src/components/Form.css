@@ -1,0 +1,15 @@
+.form{
+    margin: 20px;
+    padding: 20px;
+    max-width: 300px;
+    background-color: rgb(150, 206, 187);
+    border-radius: 20px;
+}
+
+.form input[type=text]{
+    width: 80%;
+}
+
+.form input{
+    margin-top: 10px;
+}
